@@ -156,6 +156,15 @@
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
+      {% if author.arrl %}
+      <li><a href="https://www.qrz.com/db/{{ author.arrl }}"><i class="fa-solid fa-walkie-talkie icon-pad-right" aria-hidden="true"></i>{{ author.arrl }}</a></li>
+      {% endif %}      
+      {% if author.darc %}
+      <li><a href="https://www.qrz.com/db/{{ author.darc }}"><i class="fa-solid fa-walkie-talkie icon-pad-right" aria-hidden="true"></i>{{ author.darc}}</a></li>
+      {% endif %}      
+      {% if author.pgp %}
+      <li><a href="https://keys.openpgp.org/vks/v1/by-fingerprint/{{ author.pgp }}"><i class="fa-solid fa-lock icon-pad-right" aria-hidden="true"></i>PGP Public Key</a></li>
+      {% endif %}      
     </ul>
   </div>
 </div>

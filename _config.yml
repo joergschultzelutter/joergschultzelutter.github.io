@@ -26,9 +26,12 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "ECommerce, Cloud, PMP, PMI-ACP, Robot Framework & Open Source Contributor, Ham Radio Operator & APRS Developer"
   location         : "Deensen, Germany"
-  employer         : "on request"
+  employer         : "On request"
   uri              : # URL
   email            : "joerg.schultze.lutter@gmail.com" 
+  arrl             : "AE0YP"
+  darc             : "DF1JSL"
+  pgp              : "E15A44DA2A21F9506D497D5911DEA8513F4F317E" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -63,7 +66,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "joerg.schultze.lutter"
+  steam            : # Username
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
@@ -216,7 +219,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
