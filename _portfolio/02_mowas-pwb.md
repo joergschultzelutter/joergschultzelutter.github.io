@@ -13,6 +13,6 @@ __mowas-pwb__ is an open-source reverse-engineered version of Germany's [Katwarn
 - Normally, [Katwarn](https://www.katwarn.de/en/) messages contain a lot of explanatory text (a greeting to German bureaucracy). Usually, these texts are not relevant to the end user in their entirety. Furthermore, processing very long standard texts (e.g. 2,000 characters) makes it difficult __mowas-pwb__ to send warnings to devices with limited message length (pagers, SMS, etc.). __mowas-pwb__ uses optional AI-based services to shorten the warning message to an absolute minimum without changing the core of the message.
 - In addition, __mowas-pwb__ supports freely configurable standard and emergency threshold values and/or configurations. For example, if you do not want to receive warnings related to “flooding,” these warnings can be disabled. Furthermore, reaching an emergency threshold shortens the intervals at which the program checks for new or updated messages.
 
-Currently, this program is limited to German alerts. Since there are plans to use [Katwarn](https://www.katwarn.de/en/) for all EU countries, this could change in the future.
+Currently, this program is limited to alerts related to Germany. Since there are plans to use [Katwarn](https://www.katwarn.de/en/) for all EU countries, this could change in the future.
 
 - [mowas-pwb Github repository](https://github.com/joergschultzelutter/mowas-pwb)
