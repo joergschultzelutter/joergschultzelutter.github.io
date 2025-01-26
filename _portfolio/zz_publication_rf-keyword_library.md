@@ -1,6 +1,6 @@
 ---
 title: "Workshop: Create a Robot Framework Keyword Library with Python"
-excerpt: "A brief introduction to using Python in combination with the Robot Framework and developing Robot keywords<br/><img src='/images/robot-image.jpg'>"
+excerpt: "A brief introduction to using Python in combination with the Robot Framework and developing Robot keywords<br/><img src='/images/publication-robot-image.jpg'>"
 collection: software
 ---
 

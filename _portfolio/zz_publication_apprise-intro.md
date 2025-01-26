@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Apprise"
-excerpt: "An introduction to the Apprise multi-messenger solution<br/><img src='/images/apprise-image.jpg'>"
+excerpt: "An introduction to the Apprise multi-messenger solution<br/><img src='/images/publication-apprise-image.jpg'>"
 collection: portfolio
 ---
 
