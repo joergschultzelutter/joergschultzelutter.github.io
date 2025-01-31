@@ -84,4 +84,4 @@ Skills
   * Amateur radio & maritime radio licenses
     * [Extra Class Ham Radio License](https://exam.tools/validate/0ee4025); United States
     * [Amateur Radio License Class A (HAREC)](https://drive.google.com/open?id=1UYbixPoUvAvSF5kS49WlPY2e0W711aan); Germany
-    * Long Range Certificate (LRC), Short Range Certificate (SRC), and Inland Waterway Certificate (UBI)
+    * [Long Range Certificate (LRC)](https://en.wikipedia.org/wiki/Long_Range_Certificate), [Short Range Certificate (SRC)](https://en.wikipedia.org/wiki/Short_Range_Certificate), and [Inland Waterway Certificate (UBI)](https://de.wikipedia.org/wiki/UKW-Sprechfunkzeugnis_f%C3%BCr_den_Binnenschifffahrtsfunk)
