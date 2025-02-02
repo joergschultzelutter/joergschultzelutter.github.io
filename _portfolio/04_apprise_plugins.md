@@ -1,6 +1,6 @@
 ---
 title: "Apprise Plugin Modules: APRS / DAPNET"
-excerpt: "APRS and DAPNET support for the Apprise multi-messenger solution<br/><img src='/images/apprise-program-image.jpg'>"
+excerpt: "APRS and DAPNET support for the [Apprise](https://github.com/caronc/apprise) multi-messenger solution<br/><img src='/images/apprise-program-image.jpg'>"
 collection: portfolio
 ---
 
