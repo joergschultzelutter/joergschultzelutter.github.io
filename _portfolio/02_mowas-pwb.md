@@ -1,10 +1,10 @@
 ---
 title: "mowas-pwb (open-source Katwarn clone)"
-excerpt: "My open-source katwarn clone<br/><img src='/images/mowas-pwb-image.svg'>"
+excerpt: "My open-source [Katwarn](https://www.katwarn.de/en/system.php) clone<br/><img src='/images/mowas-pwb-image.svg'>"
 collection: portfolio
 ---
 
-__mowas-pwb__ is an open-source reverse-engineered version of Germany's [Katwarn](https://www.katwarn.de/en/) clone. Unlike its official release, __mowas-pwb__ supports additional features such as:
+__mowas-pwb__ is an open-source reverse-engineered version of Germany's [Katwarn](https://www.katwarn.de/en/system.php) clone. Unlike its official release, __mowas-pwb__ supports additional features such as:
 
 - bilingual language support thanks to optional translation services from German into other languages such as English or Russian
 - [APRS](http://www.aprs.org/) support with dynamic positioning
