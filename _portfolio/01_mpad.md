@@ -6,7 +6,7 @@ collection: portfolio
 
 This article describes the use and configuration of the Apprise Multi-Messenger Platform Solution. Apprise is open source and was created in Python. A single call can be used to send messages to a wide variety of end devices via message or SMS; the call can be made either via the command line or via an API call.
 
-MPAD was my introduction to both Python and APRS.
+__MPAD__ was my introduction to both Python and APRS.
 
 The challenge was manifold:
 
@@ -16,15 +16,15 @@ The challenge was manifold:
 - The APRS documentation was widely distributed, so a lot of reverse engineering was required.
 - I was looking for an entry-level project in Python3.
 
-The result of all these points and requirements is MPAD, which I run on a Raspberry Pi 3.
+The result of all these points and requirements is __MPAD__, which I run on a Raspberry Pi.
 
 Jason/KM4ACK was kind enough to review my little APRS bot in a dedicated video:
 [![MPAD review by Jason/KM4ACK](https://img.youtube.com/vi/75W0UTL5eOY/0.jpg)](https://www.youtube.com/watch?v=75W0UTL5eOY)
 
-MPAD has been part of the APRS Foundation's "State Of The Union" presentation at the Orlando Hamcation 2025:
+__MPAD__ has been part of the APRS Foundation's "State Of The Union" presentation at the Orlando Hamcation 2025:
 - [Online version](https://www.aprsfoundation.org/hamcation-2025/)
 - [Offline version](/files/20250207---APRS-Foundation---APRS---State-of-the-Union---Orlando-Hamcation-2025.pdf)
 
-Repository and live instance:
-- [MPAD Github repository](https://github.com/joergschultzelutter/mpad)
+Github Repository and __MPAD__ live instance:
+- [MPAD Github Repository](https://github.com/joergschultzelutter/mpad)
 - [Bot live instance on aprs.fi](https://aprs.fi/#!z=11&call=a%2FMPAD&timerange=3600&tail=3600)
