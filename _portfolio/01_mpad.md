@@ -23,7 +23,7 @@ Jason/KM4ACK was kind enough to review my little APRS bot in a dedicated video:
 
 MPAD has been part of the APRS Foundation's "State Of The Union" presentation at the Orlando Hamcation 2025:
 - [Online version](https://www.aprsfoundation.org/hamcation-2025/)
-- [Offline version](files/20250207---APRS-Foundation---APRS---State-of-the-Union---Orlando-Hamcation-2025.pdf)
+- [Offline version](/files/20250207---APRS-Foundation---APRS---State-of-the-Union---Orlando-Hamcation-2025.pdf)
 
 Repository and live instance:
 - [MPAD Github repository](https://github.com/joergschultzelutter/mpad)
