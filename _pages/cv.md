@@ -25,7 +25,7 @@ Work experience
 
 * **since 2020: Product & Process Owner; company name and location on demand**
   * Enterprise architecture board member
-  * Lead project manager for the company's [BSI C5](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Cloud-Computing/Kriterienkatalog-C5/kriterienkatalog-c5_node.html) multi-cloud platform testation
+  * Owner of the company's [BSI C5](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Cloud-Computing/Kriterienkatalog-C5/kriterienkatalog-c5_node.html) multi-cloud platform testation
   * Design and development of new features and services for a multi-cloud platform
 
 * **2018-2020: Inhouse Consultant; Union Investment, Frankfurt (Germany)**
