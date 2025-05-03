@@ -1,6 +1,6 @@
 ---
 title: "Core APRS Client
-excerpt: "APRS bot framework"
+excerpt: "APRS bot framework<br/><img src='/images/aprs.gif'>"
 collection: portfolio
 ---
 
