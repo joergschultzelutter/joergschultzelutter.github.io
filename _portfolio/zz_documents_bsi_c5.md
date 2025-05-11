@@ -9,4 +9,5 @@ The [BSI C5](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/In
 In my role as C5 manager, I was responsible for the implementation and realization of the C5 certificates Type1 / Type2 for several hyperscalers.
 
 Article location:
-- [Offline version](/files/bsi_c5.pdf)
+- C5 Type 1 Azure [Offline version](/files/bsi_c5_type1_azure.pdf)
+- C5 Type 1 AWS [Offline version](/files/bsi_c5_type1_aws.pdf)
