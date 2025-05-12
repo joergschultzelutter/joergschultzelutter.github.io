@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Github Actions"
 excerpt: "A practical introduction to Github Actions and Workflows<br/><img src='/images/publication-github-actions-image.jpg'>"
-collection: software
+collection: publications
 ---
 
 Learn how you can use Github Actions and Workflows for automation purposes
