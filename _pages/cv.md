@@ -24,6 +24,7 @@ Work experience
 ======
 
 * **since 2020: Product & Process Owner; company name and location on demand**
+  * Cloud Compliance Manager
   * Enterprise architecture board member
   * Owner of the company's [BSI C5](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Cloud-Computing/Kriterienkatalog-C5/kriterienkatalog-c5_node.html) multi-cloud platform testation
   * Design and development of new features and services for a multi-cloud platform
