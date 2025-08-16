@@ -29,7 +29,7 @@ Work experience
   * Owner of the company's [BSI C5](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Cloud-Computing/Kriterienkatalog-C5/kriterienkatalog-c5_node.html) multi-cloud platform testation
   * Design and development of new features and services for a multi-cloud platform
 
-* **2018-2020: Inhouse Consultant; Union Investment, Frankfurt (Germany)**
+* **2018-2020: Inhouse Consultant; <a href="https://www.union-investment.de" target="_blank">Union Investment</a>, Frankfurt (Germany)**
   * Managed the design, development, and implementation of Union Investment's EAI service environment along with its associated front end applications
   * Implemented and improved a single sign-on solution for the Union Investment banking network
   * "Union Fonds Online" Product Owner and Information Security Officer (web and mobile application)
