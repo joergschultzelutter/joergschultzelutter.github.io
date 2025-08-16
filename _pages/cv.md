@@ -41,7 +41,7 @@ Work experience
 * **2013-2014: System Analyst; <a href="https://www.volkswagen.com" target="_blank">Volkswagen AG</a>, Wolfsburg (Germany)**
   * Performed requirements analysis, created the conceptual design and acted as Product Owner of VW’s proprietary global "CarNet" Webshop
 
-* **2012-2013: Project Manager; <a href="https://www.otto.com" target="_blank">Otto Group</a>, Hamburg (Germany)**
+* **2012-2013: Project Manager; <a href="https://www.otto.de/unternehmen/en/" target="_blank">Otto Group</a>, Hamburg (Germany)**
   * Managed a variety of projects, supporting the development and delivery of e-commerce applications and systems (Web and Mobile Apps)
 
 * **2007-2012: Project Manager; <a href="https://www.amazon.com" target="_blank">Amazon.com</a>, Luxembourg (Luxembourg)**
@@ -58,7 +58,7 @@ Work experience
 * **2000-2001: Software Developer; <a href="https://www.symrise.com" target="_blank">Symrise AG</a>, Holzminden (Germany)**
   * Designed, developed and maintained RenCS ERP software modules "Sales / Purchase Order Processing"
 
-* **1992-2000: Software Developer; <a href="https://www.cgm.com/en" target="_blank">Fliegel Data GmbH</a>, Hoexter (Germany)**
+* **1992-2000: Software Developer; <a href="https://www.cgm.com/corp_en" target="_blank">Fliegel Data GmbH</a>, Hoexter (Germany)**
   * Designed, developed, and maintained high-availability medical software modules
 
 Skills
