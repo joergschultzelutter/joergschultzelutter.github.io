@@ -12,3 +12,4 @@ Article location:
 - C5 Type 1 Azure [Offline version](/files/bsi_c5_type1_azure.pdf)
 - C5 Type 1 AWS [Offline version](/files/bsi_c5_type1_aws.pdf)
 - C5 Type 2 AWS and Azure [Offline version](/files/bsi_c5_type2_aws_azure.pdf)
+- C5 Type 2 Virtual Private Cloud [Offline version](/files/bsi_c5_type2_vpc.pdf)
