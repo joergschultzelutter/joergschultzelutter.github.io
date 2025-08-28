@@ -8,8 +8,13 @@ The [BSI C5](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/In
 
 In my role as C5 Manager and Cloud Compliance Manager, I am responsible for the implementation and realization of the C5 certificates Type1 / Type2 for several hyperscalers such as Microsoft Azure, Amazon Web Services (AWS), a VMWare-based self-hosted virtual private cloud, and others.
 
-Article location:
-- C5 Type 1 Azure [Offline version] [German](/files/bsi_c5_type1_azure_DE.pdf) | [English](/files/bsi_c5_type1_azure_EN.pdf)
-- C5 Type 1 AWS [Offline version] [German](/files/bsi_c5_type1_aws_DE.pdf)|[English](/files/bsi_c5_type1_aws_EN.pdf)
-- C5 Type 2 AWS and Azure [Offline version] [German](/files/bsi_c5_type2_aws_azure_DE.pdf)|[English](/files/bsi_c5_type2_aws_azure_EN.pdf)
-- C5 Type 2 Virtual Private Cloud [Offline version] [German](/files/bsi_c5_type2_vpc_DE.pdf)|[English](/files/bsi_c5_type2_vpc_EN.pdf)
+Article location [Offline version]:
+
+| Article                         | German                             | English | 
+|---------------------------------|--------------------------------------------|------------------|
+| C5 Azure Type 1                 | [LINK](/files/bsi_c5_type1_azure_DE.pdf)   | [LINK](/files/bsi_c5_type1_azure_EN.pdf) |
+| C5 AWS Type 1                   | [LINK](/files/bsi_c5_type1_aws_DE.pdf)     | [LINK](/files/bsi_c5_type1_aws_EN.pdf) |   
+| C5 AWS and Azure Type 2         | [LINK](/files/bsi_c5_type2_aws_azure_DE.pdf) | [LINK](/files/bsi_c5_type2_aws_azure_EN.pdf) |
+| C5 Virtual Private Cloud Type 2 | [LINK](/files/bsi_c5_type2_vpc_DE.pdf)     | [LINK](/files/bsi_c5_type2_vpc_EN.pdf) |
+
+
