@@ -21,6 +21,9 @@ The result of all these points and requirements is __MPAD__, which I run on a Ra
 Jason/KM4ACK was kind enough to review my little APRS bot in a dedicated video:
 [![MPAD review by Jason/KM4ACK](https://img.youtube.com/vi/75W0UTL5eOY/0.jpg)](https://www.youtube.com/watch?v=75W0UTL5eOY)
 
+Another video from Jason/KM4ACK, featuring my brave little APRS bot:
+[![The secret side of APRS](https://img.youtube.com/vi/QPElQT_i7sI/0.jpg)](https://www.youtube.com/watch?v=QPElQT_i7sI&t=488s)
+
 MPAD review by SignalsEverywhere on Youtube:
 [![MPAD review by SignalsEverywhere](https://img.youtube.com/vi/gXdTLerN8wo/0.jpg)](https://youtu.be/gXdTLerN8wo?si=7klpkKZxzubcko8R&t=488)
 
