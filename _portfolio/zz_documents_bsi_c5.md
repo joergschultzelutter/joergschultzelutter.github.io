@@ -17,4 +17,11 @@ Article location [Offline document versions]:
 | C5 Type 2 AWS and Azure         | [LINK](/files/bsi_c5_type2_aws_azure_DE.pdf) | [LINK](/files/bsi_c5_type2_aws_azure_EN.pdf) |
 | C5 Type 2 Virtual Private Cloud | [LINK](/files/bsi_c5_type2_vpc_DE.pdf)       | [LINK](/files/bsi_c5_type2_vpc_EN.pdf)       |
 
+Press releases [Offline and online versions]:
+
+| Language | Online Version                                                                            | Offline Version                                     |
+|----------|-------------------------------------------------------------------------------------------|-----------------------------------------------------|
+ | German   | [LINK](https://www.arvato-systems.de/mehr/presse/vpc-arvato-systems-bsi-c5-testat)        | [LINK](/files/bsi_c5_press_release_DE_20251201.pdf) |
+ | English  | [LINK](https://www.arvato-systems.com/more/press/vpc-arvato-systems-bsi-c5-certification) | [LINK](/files/bsi_c5_press_release_EN_20251201.pdf) |
+
 
