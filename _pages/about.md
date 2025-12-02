@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the landing page for my [open-source repositories on Github](https://github.com/joergschultzelutter). 
+This is the landing page for my [open-source repositories on GitHub](https://github.com/joergschultzelutter). 
 
-In addition to information on selected projects such as [MPAD](https://github.com/joergschultzelutter/mpad), you will find further IT-related materials and training documents in the [Portfolio and Publications](/portfolio/) section of this page.
+In addition to information on selected projects, you will find further IT-related materials and training documents in the [Portfolio and Publications](/portfolio/) section of this page.
 
 If you like my open-source software, please consider making a donation to these nonprofit organisations - thank you.
 
