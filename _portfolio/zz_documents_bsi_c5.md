@@ -8,7 +8,7 @@ The [BSI C5](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/In
 
 In my current role as BSI C5 Manager and Cloud Compliance Manager, I am responsible for the implementation and realization of the C5 certificates Type1 / Type2 for several hyperscalers such as Microsoft Azure, Amazon Web Services (AWS), a VMWare-based self-hosted virtual private cloud, and Google Cloud.
 
-Intranet article location [Offline document versions]:
+Intranet article location [Offline document versions], covering the 2025 audits:
 
 | Article                             | German                                       | English                                      | 
 |-------------------------------------|----------------------------------------------|----------------------------------------------|
@@ -17,7 +17,7 @@ Intranet article location [Offline document versions]:
 | BSI C5 Type 2 AWS and Azure         | [LINK](/files/bsi_c5_type2_aws_azure_DE.pdf) | [LINK](/files/bsi_c5_type2_aws_azure_EN.pdf) |
 | BSI C5 Type 2 Virtual Private Cloud | [LINK](/files/bsi_c5_type2_vpc_DE.pdf)       | [LINK](/files/bsi_c5_type2_vpc_EN.pdf)       |
 
-BSI C5 press releases 2025 [Offline and online document versions]:
+BSI C5 press releases [Offline and online document versions], covering the 2025 audits:
 
 | Source            | Language | Online Version                                                                                                                                                                              | Offline Version                                     |
 |-------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
@@ -30,7 +30,7 @@ BSI C5 press releases 2025 [Offline and online document versions]:
 | Bertelsmann Benet | English  | [LINK](https://www.benet.bertelsmann.com/benet/fs/en/news/rueckblick/nachrichten/news_detail_680513.jsp)                                                                                    | [LINK](/files/bsi_c5_benet_EN_20251203.pdf)         |
 
 
-BSI C5 press releases 2026 [Offline and online document versions]:
+BSI C5 press releases [Offline and online document versions], covering the 2026 audits:
 
 | Source            | Language | Online Version                                                                                                                                                                              | Offline Version                                     |
 |-------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
